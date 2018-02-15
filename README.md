@@ -1,0 +1,1 @@
+# yamaha-config-generator
